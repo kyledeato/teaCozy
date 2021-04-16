@@ -58,3 +58,26 @@ header{
     padding: auto;
     text-align: center;
 }
+
+/** Tea of the Month**/
+
+.teaTitle{
+    text-align: center;
+}
+
+.tea_container{
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 1500px;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    
+}
+.tea_img img{
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+}
+
