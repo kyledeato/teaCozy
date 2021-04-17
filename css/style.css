@@ -67,13 +67,14 @@ header{
 }
 
 .tea_container{
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
-    max-width: 1500px;
+    max-width: 1200px;
     height: auto;
     align-items: center;
     justify-content: center;
     align-content: center;
+    margin: auto;
     
 }
 .tea_img img{
